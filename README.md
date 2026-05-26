@@ -13,3 +13,10 @@ The model is built across 10 integrated worksheets, where each section flows log
 
 Assumptions──►Income Statement──►Balance Sheet──►Cash Flow Statement──►DCF Valuation|Multiples Valuation──►Returns & MOIC──►Sensitivity Analysis──►Summary & Recommendation. 
                       
+                      Tab 1:Instructions
+The Instructions tab acts as the starting point of the model, that provides an overview of the workbook structure, navigation guidance and the color coding system applied throughout the model. It is designed to help quick understand how the workbook is organized and how the different sections interact with one another.
+
+                       Tab 2: Assumptions
+The Assumptions tab serves as the central input hub for the entire model. Key forecasting and valuation drivers including growth rates, operating margins, discount rates, valuation multiples and pricing assumptions are consolidated in one location to maintain consistency across the workbook.
+All major outputs are dynamically linked to this sheet, allowing the model to update automatically whenever assumptions are adjusted. This structure supports efficient scenario analysis, improves flexibility, and minimizes hardcoded inputs throughout the model.
+
