@@ -11,14 +11,5 @@ Item Detail Company: NSE Ticket NCBA
 -- Model Architecture
 The model is built across 10 integrated worksheets, where each section flows logically into the next. Core assumptions are centralized in a dedicated Assumptions tab, allowing the entire model to update dynamically through scenario changes.
 
- Assumptions ──► Income Statement ──► Balance Sheet ──► Cash Flow Statement
-                       │                    │                   │
-                       └────────────────────┼───────────────────┘
-                                            ▼
-                              DCF Valuation │ Multiples Valuation
-                                            ▼
-                                    Returns & MOIC
-                                            ▼
-                               Sensitivity Analysis
-                                            ▼
-                             Summary & Recommendation
+ Assumptions──►Income Statement──►Balance Sheet──►Cash Flow Statement──►DCF Valuation|Multiples Valuation──►Returns & MOIC──►Sensitivity Analysis──►Summary & Recommendation. 
+                      
