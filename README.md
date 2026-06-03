@@ -129,7 +129,7 @@ The cash flow statement often provides a clearer picture of financial health tha
 a. FY2025 Cash Flow Performance: 
 FY2025 represented a transformational year for the group cash generation profile, with the Group delivering a substantial recovery in operating cash flows while maintaining a strong liquidity position.
 
-## Cash Flow Summary
+- Cash Flow Summary
 
 | Section                            | FY2024 (KES '000) | FY2025 (KES '000) |       Change |
 | ---------------------------------- | ----------------: | ----------------: | -----------: |
@@ -209,10 +209,10 @@ The Group converted substantially more cash than it reported in accounting profi
 * Sustainable shareholder distributions.
 The FY2025 conversion ratio of approximately 157% highlights the strength of NCBA's underlying cash generating franchise.
 
-# Dividend Sustainability Analysis
+- Dividend Sustainability Analysis
 The cash flow statement also provides the clearest assessment of dividend sustainability.
 
-### FY2025 Dividend Coverage
+- FY2025 Dividend Coverage
 
 | Metric         |       FY2025 |
 | -------------- | -----------: |
@@ -229,7 +229,7 @@ A dividend coverage ratio approaching 4x indicates:
 * Capacity to maintain distributions even during periods of elevated credit losses.
 The model assumes a 50% payout ratio throughout the forecast period, with dividend coverage remaining comfortably above 3.0x under the Base Case scenario.
 
-# Cash Flow Quality Ratios
+- Cash Flow Quality Ratios
 
 The following ratios are monitored throughout the model to assess cash generation quality:
 
@@ -241,7 +241,7 @@ The following ratios are monitored throughout the model to assess cash generatio
 | Cash Growth Rate                 | 17.6%  | Strengthening liquidity position |
 | Operating Cash Flow Margin       | 37.7%  | Robust operating efficiency      |
 
-# Forecast Methodology
+- Forecast Methodology
 
 Projected cash flows are linked directly to assumptions contained within the Assumptions tab and integrated with the Income Statement and Balance Sheet forecasts.
 
