@@ -29,13 +29,12 @@ B. Revenue & Growth Assumptions:
 
 C. WACC Calculation
 The discount rate is derived using the Capital Asset Pricing Model (CAPM):
-Cost of Equity = Rf + β × ERP
+- Cost of Equity = Rf + β × ERP
                = 12.5% + 0.95 × 5.5%
                = 17.7%
-WACC = Ke × (1 - d) + Kd × (1 - t) × d
+- WACC = Ke × (1 - d) + Kd × (1 - t) × d
      = 17.7% × 94.4% + 11.0% × 83.9% × 5.6%
      ≈ 14.0%
-WACC Component Value Rationale:
 - Risk-Free Rate (10-yr KE T-bill)12.5%  Kenya sovereign yield.
 - Equity Risk Premium 5.5% Emerging market premium.
 - Beta 0.95 Banking sector estimate.
