@@ -264,7 +264,7 @@ The DCF Valuation tab estimates NCBA Group's intrinsic equity value using the Fr
 Unlike market based valuation techniques such as P/E or P/B multiples, which derive value from comparable companies, the DCF approach attempts to estimate intrinsic value directly from the company's future earnings power and cash generation capacity.
 The valuation is fully integrated with the forecast Income Statement, Balance Sheet and Cash Flow Statement schedules, ensuring that every valuation output is linked to an underlying operational assumption.
 
-# Why FCFE?
+- Why FCFE?
 Valuing financial institutions requires a different framework from industrial or non financial businesses.
 Banks are fundamentally different because:
 * Customer deposits are the primary source of funding.
@@ -274,7 +274,7 @@ Banks are fundamentally different because:
 As a result, separating operating activities from financing activities becomes impractical.
 The FCFE approach therefore provides a cleaner and more theoretically sound valuation framework because it focuses exclusively on the cash flows available to ordinary shareholders.
 
-## FCFE Methodology
+-FCFE Methodology
 The model calculates FCFE using the following framework:
 1. FCFE = PAT + D&A - Capex - Delta NWC
 Where:
@@ -284,7 +284,7 @@ Where:
 * **ΔNWC** = Change in Net Working Capital
 The resulting cash flow represents the cash theoretically distributable to shareholders without impairing the ongoing operations of the business.
 
-# Key Valuation Assumptions
+-Key Valuation Assumptions
 | Assumption                     | Value             |
 | ------------------------------ | ----------------- |
 | Forecast Period                | 5 Years           |
@@ -298,7 +298,7 @@ The 14.0% discount rate reflects the return required by equity investors given K
 
 The terminal growth rate of 4.5% approximates long term nominal GDP growth and inflation expectations within NCBA's core East African markets.
 
-# Five Year FCFE Forecast
+-Five Year FCFE Forecast
 The valuation begins with explicit forecasts of cash available to shareholders.
 
 | (KES mn)         | FY2026E | FY2027E | FY2028E | FY2029E | FY2030E |
@@ -311,7 +311,7 @@ The valuation begins with explicit forecasts of cash available to shareholders.
 
 The forecast implies a compound annual FCFE growth rate exceeding 9%, broadly aligned with projected earnings growth and supported by gradual loan book expansion, stable margins and disciplined cost management.
 
-# Discounting Future Cash Flows
+-Discounting Future Cash Flows
 
 Each forecast cash flow is discounted back to present value using the 14.0% cost of equity.
 
@@ -323,12 +323,12 @@ Each forecast cash flow is discounted back to present value using the 14.0% cost
 | FY2029E |        32,161 |          0.5921 |        19,041 |
 | FY2030E |        35,467 |          0.5194 |        18,418 |
 
-### Present Value of Explicit Forecast Period
+- Present Value of Explicit Forecast Period
 Total PV of Forecast FCFE:
 **KES 99.1 billion**
 This represents approximately one third of total intrinsic value.
 
-# Terminal Value Analysis
+- Terminal Value Analysis
 
 Because banks are expected to operate indefinitely, a terminal value is required to capture cash flows generated beyond the explicit forecast period.
 
@@ -340,17 +340,17 @@ Where:
 * r = Cost of Equity (14.0%)
 * g = Terminal Growth Rate (4.5%)
 
-### Terminal FCFE
+-Terminal FCFE
 Terminal FCFE = FY2030 FCFE × (1 + g)
 35,467 × 1.045 = 37,063 KES mn
-### Terminal Value:
+-Terminal Value:
 37,063 ÷ (14.0% − 4.5%) = KES 390.1 billion
-### Present Value of Terminal Value
+- Present Value of Terminal Value
 Discounted back to FY2025:
 PV(Terminal Value)
 = KES 202.6 billion
 
-# Valuation Bridge
+-Valuation Bridge
 The DCF valuation bridge converts forecast cash flows into equity value.
 
 | Component                | Value (KES mn) |
@@ -362,7 +362,7 @@ The DCF valuation bridge converts forecast cash flows into equity value.
 | Add: Cash & CBK Balances |         63,774 |
 | Equity Value             |        357,852 |
 
-# Intrinsic Value Per Share
+-Intrinsic Value Per Share
 
 | Metric               |         Value |
 | -------------------- | ------------: |
@@ -380,7 +380,7 @@ The implied valuation suggests the market may be:
 * Discounting macroeconomic and regulatory risks
 * Underestimating the long term earnings power of the franchise.
 
-### Interpretation
+- Interpretation
 
 Approximately two thirds of intrinsic value is derived from the terminal value calculation.
 This is common for mature financial institutions and highlights the importance of carefully selecting:
@@ -389,22 +389,22 @@ This is common for mature financial institutions and highlights the importance o
 * Sustainable profitability assumptions; and
 * Capital allocation expectations.
 
-# Sensitivity Analysis
+ -Sensitivity Analysis
 The valuation is most sensitive to three variables:
 
-### 1. Cost of Equity (WACC Proxy)
+1. Cost of Equity (WACC Proxy)
 
 A 1% increase in the discount rate reduces fair value by approximately 15–18%.
 
 Higher required returns materially compress the present value of future cash flows.
 
-### 2. Terminal Growth Rate
+ 2. Terminal Growth Rate
 
 A 0.5% reduction in terminal growth lowers intrinsic value by approximately 8–10%.
 
 This reflects the large contribution of terminal value to overall equity value.
 
-### 3. Earnings Growth
+3. Earnings Growth
 
 The valuation remains highly sensitive to:
 * Net Interest Income growth
@@ -412,7 +412,7 @@ The valuation remains highly sensitive to:
 * Credit impairment charges
 * Cost-to-income ratio improvements.
 
-# Key Valuation Ratios
+- Key Valuation Ratios
 
 | Metric                      |    Value |
 | --------------------------- | -------: |
