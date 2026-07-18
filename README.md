@@ -1,5 +1,5 @@
-# NCBA: Comprehensive Financial Model- FY2025. 
-- This repository contains a fully integrated financial model for NCBA Group PLC built from FY2025 audited financial statements, covering forecasting, valuation, investment return analysis and scenario based sensitivity testing.
+# Comprehensive Financial Model- FY2025. 
+- Demonstrated using NCBA Group PLC FY2025 audited financial statements.
 
 Item Detail Company: NSE Ticket NCBA 
 - CurrencyKenya Shilling KES '000'.
